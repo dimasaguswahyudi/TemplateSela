@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+themepanthers.com	TRUE	/wp/creote/v-new/	FALSE	1999999999	woocommerce_items_in_cart	1
+themepanthers.com	TRUE	/wp/creote/v-new/	FALSE	1999999999	wp_woocommerce_session_4d1effc8a485067ca22e75c501a13946	t_c9722c36f2106efe276fa207b2372a%7C%7C1659060203%7C%7C1659056603%7C%7C1a571884d09038c88b5fd01826a462bc
+themepanthers.com	TRUE	/wp/creote/v-new/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+themepanthers.com	TRUE	/wp/creote/v-new/	FALSE	1999999999	yith_wcwl_session_4d1effc8a485067ca22e75c501a13946	%7B%22session_id%22%3A%22f4a2ce218f213f1e548e11865b2d7930%22%2C%22session_expiration%22%3A1661479504%2C%22session_expiring%22%3A1661475904%2C%22cookie_hash%22%3A%2275b540069d991c8bd2d84defa8d35340%22%7D
+themepanthers.com	TRUE	/wp/creote/v-new/	FALSE	1999999999	woocommerce_cart_hash	6191acfab8e1c6f78e82ad790bf49263
+themepanthers.com	TRUE	/	FALSE	1999999999	_lscache_vary	1bba968a00c5b3b5227ed3d80ec3b121
+
