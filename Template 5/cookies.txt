@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+goldenblatt.bold-themes.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+goldenblatt.bold-themes.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_5d05184047423fd2d4bbf9d5c3eff469	t_050eb95d9172f1a7825f402e261615%7C%7C1659146843%7C%7C1659143243%7C%7C6a73f481a003705808be28eade6b16fb
+goldenblatt.bold-themes.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	0f02d31e36505846265c2e002d622536
+
